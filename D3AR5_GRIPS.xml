@@ -1,0 +1,531 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA 1.3 Topic//EN" "topic.dtd">
+<topic id="GripsListInfo_D3AR5_TEST17022021">
+  <title>Grips Information File</title>
+  <body>
+    <data variant="D3AR5" chapter="Motor kompl" gapl="0102" part="3" grips="01" name_en="Engine" name_de="Motor" />
+    <data variant="D3AR5" chapter="Motor kompl" gapl="0102" part="3" grips="01 28" name_en="Engine Mounting" name_de="Motorlagerung" />
+    <data variant="D3AR5" chapter="Motor kompl" gapl="0102" part="3" grips="03 02 50" name_en="Fuel Inject Line" name_de="Einspritzleitung Treibstoff" />
+    <data variant="D3AR5" chapter="Motor kompl" gapl="0102" part="3" grips="04 09" name_en="Cold Start Systm" name_de="Ansaug-Luft Vorw„rung" />
+    <data variant="D3AR5" chapter="Motor kompl" gapl="0102" part="3" grips="12 02 06" name_en="Air Compressor" name_de="Luftkompressor" />
+    <data variant="D3AR5" chapter="Motor kompl" gapl="0102" part="3" grips="12 04" name_en="Engine Brake" name_de="Motorbremse" />
+    <data variant="D3AR5" chapter="Anbauteile Motor" gapl="010210" part="5" grips="01" name_en="Engine" name_de="Motor" />
+    <data variant="D3AR5" chapter="Anbauteile Motor" gapl="010210" part="5" grips="01 28" name_en="Engine Mounting" name_de="Motorlagerung" />
+    <data variant="D3AR5" chapter="Anbauteile Motor" gapl="010210" part="6" grips="01 23 10" name_en="Seal Crankshaf R" name_de="Wellendichtring Kurbelwelle hinten" />
+    <data variant="D3AR5" chapter="Anbauteile Motor" gapl="010210" part="6" grips="01 23 20" name_en="Engine Cover R" name_de="Motordeckel hinten" />
+    <data variant="D3AR5" chapter="Anbauteile Motor" gapl="010210" part="6" grips="01 24" name_en="Flywheel" name_de="Schwungrad" />
+    <data variant="D3AR5" chapter="W„rmeschutzblech Anbau" gapl="010220" part="7" grips="01 18 30" name_en="Exhaust Manif 1" name_de="Abgassammelrohr 1" />
+    <data variant="D3AR5" chapter="™lwannenschutz Anbau" gapl="010230" part="8" grips="01 13" name_en="Oil Pan" name_de="™lwanne" />
+    <data variant="D3AR5" chapter="Abschlussdeckel vo" gapl="010301" part="11" grips="01 02 10" name_en="Seal Crankshaf F" name_de="Wellendichtring Kurbelwelle vorne" />
+    <data variant="D3AR5" chapter="Abschlussdeckel vo" gapl="010301" part="11" grips="01 03" name_en="Engine Cover F" name_de="Motordeckel vorne" />
+    <data variant="D3AR5" chapter="Zylinderkopf" gapl="010303" part="13" grips="01 10" name_en="Cyl-Head" name_de="Zylinderkopf" />
+    <data variant="D3AR5" chapter="Zylinderkopf" gapl="010303" part="13" grips="01 10 30" name_en="Valves" name_de="Ein- und Auslassventile" />
+    <data variant="D3AR5" chapter="Kipphebel" gapl="010304" part="14" grips="01 08 20" name_en="Push Rods" name_de="St”sselstangen" />
+    <data variant="D3AR5" chapter="Kipphebel" gapl="010304" part="14" grips="01 10" name_en="Cyl-Head" name_de="Zylinderkopf" />
+    <data variant="D3AR5" chapter="Kipphebel" gapl="010304" part="14" grips="01 10 10" name_en="Cyl-Head Cover" name_de="Ventildeckel" />
+    <data variant="D3AR5" chapter="Kipphebel" gapl="010304" part="14" grips="01 10 20" name_en="Rocker Arm" name_de="Kipphebel" />
+    <data variant="D3AR5" chapter="Kipphebel" gapl="010304" part="14" grips="01 10 30" name_en="Valves" name_de="Ein- und Auslassventile" />
+    <data variant="D3AR5" chapter="Ventildeckel u. Einfllverschluss" gapl="010305" part="15" grips="01 10 10" name_en="Cyl-Head Cover" name_de="Ventildeckel" />
+    <data variant="D3AR5" chapter="Hebe”sen" gapl="010306" part="16" grips="01" name_en="Engine" name_de="Motor" />
+    <data variant="D3AR5" chapter="Hebe”sen" gapl="010306" part="16" grips="01 10" name_en="Cyl-Head" name_de="Zylinderkopf" />
+    <data variant="D3AR5" chapter="™lwanne" gapl="010307" part="17" grips="01 03" name_en="Engine Cover F" name_de="Motordeckel vorne" />
+    <data variant="D3AR5" chapter="™lwanne" gapl="010307" part="17" grips="01 13" name_en="Oil Pan" name_de="™lwanne" />
+    <data variant="D3AR5" chapter="™lwanne" gapl="010307" part="17" grips="01 31" name_en="Engine Oil" name_de="Motoren”l" />
+    <data variant="D3AR5" chapter="™lpumpe" gapl="010308" part="18" grips="01 03" name_en="Engine Cover F" name_de="Motordeckel vorne" />
+    <data variant="D3AR5" chapter="™lpumpe" gapl="010308" part="18" grips="01 12" name_en="Oil Pumps" name_de="™pumpen" />
+    <data variant="D3AR5" chapter="™lfilter" gapl="010309" part="19" grips="01 21" name_en="Oil Filter" name_de="™lfilter" />
+    <data variant="D3AR5" chapter="™lfilter" gapl="010309" part="19" grips="01 31" name_en="Engine Oil" name_de="Motoren”l" />
+    <data variant="D3AR5" chapter="Motor”lkhler" gapl="010310" part="20" grips="01 12 30" name_en="Pr Relief Valve" name_de="šberdruckventil" />
+    <data variant="D3AR5" chapter="Motor”lkhler" gapl="010310" part="20" grips="01 16" name_en="Heat Ex Eng Oil" name_de="W„rmetauscher Motoren”l" />
+    <data variant="D3AR5" chapter="Motor”lkhler" gapl="010310" part="20" grips="01 31" name_en="Engine Oil" name_de="Motoren”l" />
+    <data variant="D3AR5" chapter="™lleitungen Turbolader" gapl="010311" part="21" grips="01 18 10" name_en="Turbocharger" name_de="Abgasturbolader" />
+    <data variant="D3AR5" chapter="Wasserpumpe" gapl="010312" part="22" grips="05 02" name_en="Coolant Pump MC" name_de="Khlmittelpumpe Hauptkreis" />
+    <data variant="D3AR5" chapter="Thermostat Thermostatgeh„use" gapl="010313" part="23" grips="05 05" name_en="Thermostat MC" name_de="Thermostat Hauptkreis" />
+    <data variant="D3AR5" chapter="Khlleitungen Kompressor" gapl="010315" part="25" grips="01 10" name_en="Cyl-Head" name_de="Zylinderkopf" />
+    <data variant="D3AR5" chapter="Khlleitungen Kompressor" gapl="010315" part="25" grips="12 02 06" name_en="Air Compressor" name_de="Luftkompressor" />
+    <data variant="D3AR5" chapter="Luftkompressor" gapl="010316" part="26" grips="12 02 06" name_en="Air Compressor" name_de="Luftkompressor" />
+    <data variant="D3AR5" chapter="Riemenspanner/Lfterlagerung" gapl="010317" part="27" grips="01 05" name_en="Belt f 2-n Units" name_de="Riemen 2 oder mehr Aggregate" />
+    <data variant="D3AR5" chapter="Riemenspanner/Lfterlagerung" gapl="010317" part="27" grips="01 05 01" name_en="Belt Tensioner" name_de="Riemenspanner" />
+    <data variant="D3AR5" chapter="Riemenspanner/Lfterlagerung" gapl="010317" part="27" grips="05 02" name_en="Coolant Pump MC" name_de="Khlmittelpumpe Hauptkreis" />
+    <data variant="D3AR5" chapter="Riemenspanner/Lfterlagerung" gapl="010317" part="27" grips="05 13 60" name_en="Fan Unit" name_de="Lftereinheit" />
+    <data variant="D3AR5" chapter="Riemenscheibe/D„mpfer" gapl="010318" part="28" grips="01 04" name_en="Vibration Damper" name_de="Schwingungsd„mpfer" />
+    <data variant="D3AR5" chapter="Ansaugkollektor u. Heizung" gapl="010319" part="29" grips="01 10" name_en="Cyl-Head" name_de="Zylinderkopf" />
+    <data variant="D3AR5" chapter="Ansaugkollektor u. Heizung" gapl="010319" part="29" grips="01 17" name_en="Intake Air Syst" name_de="Ansaugsystem Luft Motor" />
+    <data variant="D3AR5" chapter="Ansaugkollektor u. Heizung" gapl="010319" part="29" grips="03 02 50" name_en="Fuel Inject Line" name_de="Einspritzleitung Treibstoff" />
+    <data variant="D3AR5" chapter="Ansaugkollektor u. Heizung" gapl="010319" part="29" grips="04 09" name_en="Cold Start Systm" name_de="Ansaug-Luft Vorw„rung" />
+    <data variant="D3AR5" chapter="Abgaskollektor" gapl="010320" part="30" grips="01 18 30" name_en="Exhaust Manif 1" name_de="Abgassammelrohr 1" />
+    <data variant="D3AR5" chapter="Turbolader" gapl="010321" part="31" grips="01 18 10" name_en="Turbocharger" name_de="Abgasturbolader" />
+    <data variant="D3AR5" chapter="Treibstofffilter" gapl="010322" part="32" grips="03 02" name_en="Fuel System Eng" name_de="Treibstoffsystem Motor" />
+    <data variant="D3AR5" chapter="Treibstofffilter" gapl="010322" part="32" grips="03 02 10" name_en="Filter Fuel" name_de="Filter  Treibstoff" />
+    <data variant="D3AR5" chapter="Treibstoffleitungen" gapl="010323" part="33" grips="03 02" name_en="Fuel System Eng" name_de="Treibstoffsystem Motor" />
+    <data variant="D3AR5" chapter="Treibstoffleitungen" gapl="010323" part="33" grips="03 02 40" name_en="Fuel Inject Pump" name_de="Einspritzpumpe" />
+    <data variant="D3AR5" chapter="Hochdruckpumpe" gapl="010324" part="34" grips="03 02" name_en="Fuel System Eng" name_de="Treibstoffsystem Motor" />
+    <data variant="D3AR5" chapter="Hochdruckpumpe" gapl="010324" part="34" grips="03 02 40" name_en="Fuel Inject Pump" name_de="Einspritzpumpe" />
+    <data variant="D3AR5" chapter="Hochdruckpumpe" gapl="010324" part="34" grips="03 02 46" name_en="Fuel Modulator" name_de="Einspritzmengenmodulator" />
+    <data variant="D3AR5" chapter="Einspritzdse" gapl="010325" part="35" grips="03 02" name_en="Fuel System Eng" name_de="Treibstoffsystem Motor" />
+    <data variant="D3AR5" chapter="Einspritzdse" gapl="010325" part="35" grips="03 02 50" name_en="Fuel Inject Line" name_de="Einspritzleitung Treibstoff" />
+    <data variant="D3AR5" chapter="Einspritzdse" gapl="010325" part="35" grips="03 02 60" name_en="Fuel Injector" name_de="Einspritzdse" />
+    <data variant="D3AR5" chapter="Einspritzdse" gapl="010325" part="35" grips="03 02 70" name_en="Fuel Inj Unit" name_de="Einspritzeinheiten" />
+    <data variant="D3AR5" chapter="Einspritzdse" gapl="010325" part="35" grips="04 09" name_en="Cold Start Systm" name_de="Ansaug-Luft Vorw„rung" />
+    <data variant="D3AR5" chapter="Einspritzleitungen" gapl="010326" part="36" grips="01 10" name_en="Cyl-Head" name_de="Zylinderkopf" />
+    <data variant="D3AR5" chapter="Einspritzleitungen" gapl="010326" part="36" grips="03 02" name_en="Fuel System Eng" name_de="Treibstoffsystem Motor" />
+    <data variant="D3AR5" chapter="Einspritzleitungen" gapl="010326" part="36" grips="03 02 40" name_en="Fuel Inject Pump" name_de="Einspritzpumpe" />
+    <data variant="D3AR5" chapter="Einspritzleitungen" gapl="010326" part="36" grips="03 02 50" name_en="Fuel Inject Line" name_de="Einspritzleitung Treibstoff" />
+    <data variant="D3AR5" chapter="Einspritzleitungen" gapl="010326" part="36" grips="03 02 55" name_en="Hig Press Contr Valve" name_de="Druckregelventil" />
+    <data variant="D3AR5" chapter="Einspritzleitungen" gapl="010326" part="36" grips="03 02 86" name_en="Sens Fuel Press" name_de="Sesor Treibstoffdruck" />
+    <data variant="D3AR5" chapter="Einspritzleitungen" gapl="010326" part="36" grips="04 09" name_en="Cold Start Systm" name_de="Ansaug-Luft Vorw„rung" />
+    <data variant="D3AR5" chapter="Steuerelektronik Motor ECM" gapl="010327" part="37" grips="03 02" name_en="Fuel System Eng" name_de="Treibstoffsystem Motor" />
+    <data variant="D3AR5" chapter="Steuerelektronik Motor ECM" gapl="010327" part="37" grips="03 02 79" name_en="Sens Eng Pos" name_de="Sensor Motorposition" />
+    <data variant="D3AR5" chapter="Steuerelektronik Motor ECM" gapl="010327" part="37" grips="03 02 80" name_en="Sens Speed-Timing" name_de="Sensors Drehzahl-Einspritzzeit" />
+    <data variant="D3AR5" chapter="Steuerelektronik Motor ECM" gapl="010327" part="37" grips="03 02 81" name_en="Sens Coolant Temp" name_de="Khlflssigkeits-Temperatursensor" />
+    <data variant="D3AR5" chapter="Steuerelektronik Motor ECM" gapl="010327" part="37" grips="03 02 82 03" name_en="Sens Air Combi PrTem" name_de="Kombi-Sensor Druck und Temperatur Ansaugluft" />
+    <data variant="D3AR5" chapter="Steuerelektronik Motor ECM" gapl="010327" part="37" grips="03 02 82 04" name_en="Sens Atmosph Press" name_de="Sensor Atmosph„rischer Druck" />
+    <data variant="D3AR5" chapter="Steuerelektronik Motor ECM" gapl="010327" part="37" grips="03 02 85" name_en="Sens Eng Oil" name_de="Sensor Motor”l" />
+    <data variant="D3AR5" chapter="Steuerelektronik Motor ECM" gapl="010327" part="37" grips="03 02 96" name_en="ECU Eng Management" name_de="Steuerger„t Motormanagement" />
+    <data variant="D3AR5" chapter="Verkabelung Motor" gapl="0104" part="38" grips="01" name_en="Engine" name_de="Motor" />
+    <data variant="D3AR5" chapter="Verkabelung Motor" gapl="0104" part="38" grips="03 02 40" name_en="Fuel Inject Pump" name_de="Einspritzpumpe" />
+    <data variant="D3AR5" chapter="Verkabelung Motor" gapl="0104" part="38" grips="03 02 79" name_en="Sens Eng Pos" name_de="Sensor Motorposition" />
+    <data variant="D3AR5" chapter="Verkabelung Motor" gapl="0104" part="38" grips="03 02 80" name_en="Sens Speed-Timing" name_de="Sensors Drehzahl-Einspritzzeit" />
+    <data variant="D3AR5" chapter="Verkabelung Motor" gapl="0104" part="38" grips="03 02 81" name_en="Sens Coolant Temp" name_de="Khlflssigkeits-Temperatursensor" />
+    <data variant="D3AR5" chapter="Verkabelung Motor" gapl="0104" part="38" grips="03 02 82 03" name_en="Sens Air Combi PrTem" name_de="Kombi-Sensor Druck und Temperatur Ansaugluft" />
+    <data variant="D3AR5" chapter="Verkabelung Motor" gapl="0104" part="38" grips="03 02 85" name_en="Sens Eng Oil" name_de="Sensor Motor”l" />
+    <data variant="D3AR5" chapter="Verkabelung Motor" gapl="0104" part="38" grips="03 02 86" name_en="Sens Fuel Press" name_de="Sesor Treibstoffdruck" />
+    <data variant="D3AR5" chapter="Verkabelung Motor" gapl="0104" part="38" grips="03 02 96" name_en="ECU Eng Management" name_de="Steuerger„t Motormanagement" />
+    <data variant="D3AR5" chapter="Verkabelung Motor" gapl="0104" part="38" grips="04 09" name_en="Cold Start Systm" name_de="Ansaug-Luft Vorw„rung" />
+    <data variant="D3AR5" chapter="Luftfilter Luftzufuhr" gapl="0105" part="39" grips="04 02" name_en="Air Filter" name_de="Luftfilter" />
+    <data variant="D3AR5" chapter="Luftfilter Luftzufuhr" gapl="0105" part="39" grips="04 02 05" name_en="Air Filter Elem" name_de="Luftfilterelement" />
+    <data variant="D3AR5" chapter="Treibstoffanlage" gapl="03" part="1" grips="03" name_en="Fuel System" name_de="Treibstoffanlage" />
+    <data variant="D3AR5" chapter="Treibstofftank Einbau / Tankdeckel" gapl="0301" part="2" grips="03 01 10" name_en="Fuel Tank" name_de="Treibstofftank" />
+    <data variant="D3AR5" chapter="Treibstofftank Einbau / Tankdeckel" gapl="0301" part="2" grips="03 01 10 01" name_en="Fuel Level Sensor" name_de="Treibstoffstandsensor" />
+    <data variant="D3AR5" chapter="Treibstofftank Einbau / Tankdeckel" gapl="0301" part="2" grips="03 01 40" name_en="Vent Lines Fuel" name_de="Entlftungsleitungen Treibstoff" />
+    <data variant="D3AR5" chapter="Dieselvorfilter Anbau" gapl="0302" part="3" grips="03 01 50" name_en="Supply Line Fuel" name_de="Zufuhrleitungen Treibstoff" />
+    <data variant="D3AR5" chapter="Dieselvorfilter Anbau" gapl="0302" part="3" grips="03 02 10" name_en="Filter Fuel" name_de="Filter  Treibstoff" />
+    <data variant="D3AR5" chapter="Dieselvorfilter Anbau" gapl="0302" part="3" grips="03 02 90" name_en="Sens Water-in-Fuel" name_de="Sensor Wasser im Treibstoff" />
+    <data variant="D3AR5" chapter="Treibstoffleitungen Einbau" gapl="0303" part="4" grips="03 02 10" name_en="Filter Fuel" name_de="Filter  Treibstoff" />
+    <data variant="D3AR5" chapter="Treibstoffleitungen Einbau" gapl="0303" part="4" grips="25 01 10" name_en="Water Heater" name_de="Standheizung mit Wasserheizger„t oder Luftheizger„" />
+    <data variant="D3AR5" chapter="Harnstofftank Einbau" gapl="0304" part="5" grips="04 14" name_en="Emission Control" name_de="Abgasnachbehandlung" />
+    <data variant="D3AR5" chapter="Dosiereinheit Einbau" gapl="0305" part="6" grips="04 14" name_en="Emission Control" name_de="Abgasnachbehandlung" />
+    <data variant="D3AR5" chapter="Harnstoffleitungen Einbau" gapl="0306" part="7" grips="04 14" name_en="Emission Control" name_de="Abgasnachbehandlung" />
+    <data variant="D3AR5" chapter="Flammschutzblech Anbau" gapl="0308" part="9" grips="03 01 20" name_en="Infra Prot Tank" name_de="Infrarotschutz Treibstofftank" />
+    <data variant="D3AR5" chapter="Auspuffanlage Anbau" gapl="04" part="1" grips="04" name_en="Air Filt_Exhaust" name_de="Lufteinlass-und Auspuffanlage" />
+    <data variant="D3AR5" chapter="Auspuffanlage Anbau" gapl="04" part="1" grips="04 10 30" name_en="Exhaust Pipe" name_de="Abgasrohr" />
+    <data variant="D3AR5" chapter="Auspuffanlage Anbau" gapl="04" part="1" grips="04 14" name_en="Emission Control" name_de="Abgasnachbehandlung" />
+    <data variant="D3AR5" chapter="Khlanlage šbersicht" gapl="05" part="1" grips="05" name_en="Cooling System" name_de="Khlsystem" />
+    <data variant="D3AR5" chapter="Khlereinheit Einbau" gapl="0501" part="2" grips="05 13" name_en="Radiator Unit Assy" name_de="Khlereinheit" />
+    <data variant="D3AR5" chapter="Khlereinheit kompl" gapl="050110" part="3" grips="01 17 30" name_en="Intercooler" name_de="Ladelftkhler" />
+    <data variant="D3AR5" chapter="Khlereinheit kompl" gapl="050110" part="3" grips="05 13" name_en="Radiator Unit Assy" name_de="Khlereinheit" />
+    <data variant="D3AR5" chapter="Khlereinheit kompl" gapl="050110" part="3" grips="05 13 30" name_en="Radiator MC" name_de="Khler Hauptkreis" />
+    <data variant="D3AR5" chapter="Khlereinheit kompl" gapl="050110" part="3" grips="05 18" name_en="Coolant" name_de="Khlmittel" />
+    <data variant="D3AR5" chapter="Khlung Autom. Getriebe" gapl="0502" part="4" grips="07" name_en="Automatic Trans" name_de="Automatisches Getriebe" />
+    <data variant="D3AR5" chapter="Khlung Autom. Getriebe" gapl="0502" part="4" grips="07 01 01" name_en="Heat Ex Aut Tran" name_de="W„rmetauscher Automatisches Getriebe" />
+    <data variant="D3AR5" chapter="Khlung Autom. Getriebe" gapl="0502" part="4" grips="08 01" name_en="Transm Unit" name_de="Getriebeeinheit" />
+    <data variant="D3AR5" chapter="Expansionsbeh„lter Einbau" gapl="0503" part="5" grips="05 01" name_en="Coolant Tank MC" name_de="Khlmittelbeh„lter Hauptkreis" />
+    <data variant="D3AR5" chapter="Riementrieb Anbau" gapl="0504" part="6" grips="01 04" name_en="Vibration Damper" name_de="Schwingungsd„mpfer" />
+    <data variant="D3AR5" chapter="Riementrieb Anbau" gapl="0504" part="6" grips="01 05" name_en="Belt f 2-n Units" name_de="Riemen 2 oder mehr Aggregate" />
+    <data variant="D3AR5" chapter="Riementrieb Anbau" gapl="0504" part="6" grips="01 05 01" name_en="Belt Tensioner" name_de="Riemenspanner" />
+    <data variant="D3AR5" chapter="Riementrieb Anbau" gapl="0504" part="6" grips="05 13 60" name_en="Fan Unit" name_de="Lftereinheit" />
+    <data variant="D3AR5" chapter="Lfter Einbau" gapl="050410" part="7" grips="05 13 60" name_en="Fan Unit" name_de="Lftereinheit" />
+    <data variant="D3AR5" chapter="Lfterzarge Anbau" gapl="0505" part="8" grips="05 13 60" name_en="Fan Unit" name_de="Lftereinheit" />
+    <data variant="D3AR5" chapter="Elektrische Anlage" gapl="06" part="1" grips="06" name_en="Electrical Sys" name_de="Elektrische Anlage" />
+    <data variant="D3AR5" chapter="Elektrische Anlage" gapl="06" part="2" grips="06" name_en="Electrical Sys" name_de="Elektrische Anlage" />
+    <data variant="D3AR5" chapter="Generator Anbau" gapl="060102" part="4" grips="06 05" name_en="Alternator Insta" name_de="Generator Einbau" />
+    <data variant="D3AR5" chapter="Batterie u. Batterieklemmen" gapl="061801" part="5" grips="06 20 42" name_en="Batteries Instal" name_de="Batterien Einbau" />
+    <data variant="D3AR5" chapter="Batterie u. Batterieklemmen" gapl="061801" part="5" grips="06 20 42 10" name_en="Batteries" name_de="Batterien" />
+    <data variant="D3AR5" chapter="Instrumententafel" gapl="061803" part="7" grips="06 20 51 05" name_en="Combinat Switch" name_de="Kombi-Schalter" />
+    <data variant="D3AR5" chapter="Instrumententafel" gapl="061803" part="7" grips="06 20 57" name_en="Instrument Panel" name_de="Armaturenbrett" />
+    <data variant="D3AR5" chapter="Instrumententafel" gapl="061803" part="7" grips="06 20 60 42" name_en="Speedometer" name_de="Tachometer Geschwindigkeitsanzeige" />
+    <data variant="D3AR5" chapter="Instrumententafel" gapl="061803" part="7" grips="06 20 60 43" name_en="Tachometer" name_de="Drehzahlmesser" />
+    <data variant="D3AR5" chapter="Instrumententafel" gapl="061803" part="7" grips="06 20 60 64" name_en="Switch Light" name_de="Lichtschalter" />
+    <data variant="D3AR5" chapter="Instrumententafel" gapl="061803" part="7" grips="06 20 60 96" name_en="Display" name_de="Display fr Fahrer im Instrumentenbrett" />
+    <data variant="D3AR5" chapter="Instrumententafel" gapl="061803" part="7" grips="12 01 30" name_en="ABS" name_de="Antiblokiersystem" />
+    <data variant="D3AR5" chapter="Relaisplatte Einbau" gapl="061804" part="8" grips="06 20 57" name_en="Instrument Panel" name_de="Armaturenbrett" />
+    <data variant="D3AR5" chapter="Relaisplatte Einbau" gapl="061804" part="8" grips="06 20 57 01" name_en="ECU 1 Hull" name_de="Steuerger„t MOWAG System" />
+    <data variant="D3AR5" chapter="Relaisplatte kompl" gapl="061805" part="9" grips="06 20 83" name_en="Main Switch Pan" name_de="Haupschalterbrett" />
+    <data variant="D3AR5" chapter="Relaisplatte kompl" gapl="061805" part="9" grips="06 20 91 01" name_en="Fuse box 1" name_de="Zus„tzliche sicherungskasten" />
+    <data variant="D3AR5" chapter="Relaisplatte kompl" gapl="061805" part="9" grips="06 20 95" name_en="Voltage Transformer" name_de="Spannungswandler" />
+    <data variant="D3AR5" chapter="Hauptschalterkasten kompl" gapl="061807" part="11" grips="03 02 96" name_en="ECU Eng Management" name_de="Steuerger„t Motormanagement" />
+    <data variant="D3AR5" chapter="Hauptschalterkasten kompl" gapl="061807" part="11" grips="04 09" name_en="Cold Start Systm" name_de="Ansaug-Luft Vorw„rung" />
+    <data variant="D3AR5" chapter="Hauptschalterkasten kompl" gapl="061807" part="11" grips="06 20 83 40" name_en="Batt Main Switch" name_de="Batteierhauptschalter" />
+    <data variant="D3AR5" chapter="Hauptschalterkasten kompl" gapl="061807" part="11" grips="06 20 91 02" name_en="Fuse box 2" name_de="Zus„tzlicher Sicherungskasten" />
+    <data variant="D3AR5" chapter="Hauptschalterkasten kompl" gapl="061807" part="12" grips="06 20 91 02" name_en="Fuse box 2" name_de="Zus„tzlicher Sicherungskasten" />
+    <data variant="D3AR5" chapter="Hauptschalterkasten kompl" gapl="061807" part="12" grips="12 01 30" name_en="ABS" name_de="Antiblokiersystem" />
+    <data variant="D3AR5" chapter="Hauptschalterkasten kompl" gapl="061807" part="12" grips="12 01 30 01" name_en="ECU ABS" name_de="Steuerger„t ABS" />
+    <data variant="D3AR5" chapter="Restwegaufzeichnung Einbau" gapl="061809" part="14" grips="06" name_en="Electrical Sys" name_de="Elektrische Anlage" />
+    <data variant="D3AR5" chapter="Radio Einbau" gapl="061810" part="15" grips="06" name_en="Electrical Sys" name_de="Elektrische Anlage" />
+    <data variant="D3AR5" chapter="Kamera u. Kabel Kabine Einbau" gapl="061811" part="16" grips="61 10" name_en="Camera System" name_de="Kamera System" />
+    <data variant="D3AR5" chapter="Kamera Aufbau Einbau" gapl="061813" part="18" grips="61 10" name_en="Camera System" name_de="Kamera System" />
+    <data variant="D3AR5" chapter="Monitor kompl" gapl="061814" part="19" grips="45 15" name_en="Server Station" name_de="Server Station Halter und EDV" />
+    <data variant="D3AR5" chapter="Bedienkonsole Einbau" gapl="061815" part="20" grips="19 04 50" name_en="Covers Int" name_de="Abdeckungen Innen" />
+    <data variant="D3AR5" chapter="NOX-Sensor Einbau" gapl="061816" part="21" grips="04 14" name_en="Emission Control" name_de="Abgasnachbehandlung" />
+    <data variant="D3AR5" chapter="Schalter Kabine" gapl="061817" part="22" grips="06" name_en="Electrical Sys" name_de="Elektrische Anlage" />
+    <data variant="D3AR5" chapter="Verteilerbox kompl" gapl="061818" part="23" grips="06 90" name_en="El Elements Superstructure" name_de="Elektrische Elemente Aufbau" />
+    <data variant="D3AR5" chapter="Innenleuchte Kabine" gapl="061819" part="24" grips="06" name_en="Electrical Sys" name_de="Elektrische Anlage" />
+    <data variant="D3AR5" chapter="Lampen hi Einbau" gapl="061821" part="26" grips="06 20 24" name_en="Lighting Rear" name_de="Beleuchtung hinten" />
+    <data variant="D3AR5" chapter="Heckleuchte li" gapl="061822" part="27" grips="06 20 24" name_en="Lighting Rear" name_de="Beleuchtung hinten" />
+    <data variant="D3AR5" chapter="Heckleuchte re" gapl="061823" part="28" grips="06 20 24" name_en="Lighting Rear" name_de="Beleuchtung hinten" />
+    <data variant="D3AR5" chapter="Beleuchtung vo" gapl="061824" part="29" grips="06 20 05" name_en="Light Front Horn" name_de="Beleuchtung vorne Horn" />
+    <data variant="D3AR5" chapter="Beleuchtung vo" gapl="061824" part="29" grips="06 20 05 05" name_en="Headlight" name_de="Scheinwerfer" />
+    <data variant="D3AR5" chapter="Kabel Versorgung" gapl="061828" part="33" grips="06" name_en="Electrical Sys" name_de="Elektrische Anlage" />
+    <data variant="D3AR5" chapter="Kabel Chassis" gapl="061829" part="34" grips="06" name_en="Electrical Sys" name_de="Elektrische Anlage" />
+    <data variant="D3AR5" chapter="Kabel Kabine" gapl="061830" part="37" grips="06" name_en="Electrical Sys" name_de="Elektrische Anlage" />
+    <data variant="D3AR5" chapter="Kabel Kabine" gapl="061830" part="40" grips="03 02 82" name_en="Sens Air" name_de="Sensoren Luft" />
+    <data variant="D3AR5" chapter="Kabel Aufbau" gapl="061832" part="42" grips="06" name_en="Electrical Sys" name_de="Elektrische Anlage" />
+    <data variant="D3AR5" chapter="Kabel Waffenstation" gapl="061901" part="45" grips="06" name_en="Electrical Sys" name_de="Elektrische Anlage" />
+    <data variant="D3AR5" chapter="Kabel Waffenstation" gapl="061902" part="46" grips="06" name_en="Electrical Sys" name_de="Elektrische Anlage" />
+    <data variant="D3AR5" chapter="Arbeitsscheinwerfer mobil" gapl="069701" part="47" grips="06 20 38" name_en="Search Light" name_de="Suchscheinwerfer" />
+    <data variant="D3AR5" chapter="Autom. Getriebe kompl" gapl="07" part="1" grips="07" name_en="Automatic Trans" name_de="Automatisches Getriebe" />
+    <data variant="D3AR5" chapter="Autom. Getriebe kompl" gapl="07" part="1" grips="07 05 03" name_en="Second Flywheel" name_de="Sekund„rschwungrad" />
+    <data variant="D3AR5" chapter="Autom. Getriebe kompl" gapl="07" part="1" grips="07 18 20" name_en="ECU Auto Trans" name_de="Steuerger„t Automatisches Getriebe" />
+    <data variant="D3AR5" chapter="™lwanne u. Saugfilter" gapl="070110" part="3" grips="07 13" name_en="Oil Pan" name_de="™lwanne" />
+    <data variant="D3AR5" chapter="™lwanne u. Saugfilter" gapl="070110" part="3" grips="07 13 10" name_en="Oil Filter Inter" name_de="™lfilter intern" />
+    <data variant="D3AR5" chapter="™lwanne u. Saugfilter" gapl="070110" part="3" grips="07 19" name_en="ATF" name_de="Automatengetriebe”l" />
+    <data variant="D3AR5" chapter="Drehmomentwandler" gapl="070120" part="4" grips="07 05" name_en="Torque Converter" name_de="Drehmomentwandler" />
+    <data variant="D3AR5" chapter="Anschlussgeh„use" gapl="070130" part="5" grips="07 14" name_en="Oil Filter Exter" name_de="™lfilter extern" />
+    <data variant="D3AR5" chapter="Anschlussgeh„use" gapl="070130" part="5" grips="07 19" name_en="ATF" name_de="Automatengetriebe”l" />
+    <data variant="D3AR5" chapter="™ldichtung Eingang" gapl="070140" part="6" grips="07 05 02" name_en="Seal Turb Shaft" name_de="Dichtring Turbinenwelle" />
+    <data variant="D3AR5" chapter="Drehzahlsensor Eingang" gapl="070150" part="7" grips="07 17 20" name_en="Speed Sensor 2" name_de="Sensor Drehzahl 2" />
+    <data variant="D3AR5" chapter="Drehzahlsensor Turbine" gapl="070160" part="8" grips="07 12" name_en="Schift Cont int" name_de="Schaltsteuerung intern" />
+    <data variant="D3AR5" chapter="Drehzahlsensor Turbine" gapl="070160" part="8" grips="07 17 10" name_en="Speed Sensor 1" name_de="Sensor Drehzahl 1" />
+    <data variant="D3AR5" chapter="Drehzahlsensor Ausgang" gapl="070170" part="9" grips="07 11 30" name_en="Seal Outp Shaft" name_de="Dichtring Abtriebswelle" />
+    <data variant="D3AR5" chapter="Drehzahlsensor Ausgang" gapl="070170" part="9" grips="07 17 25" name_en="Speed Sensor 3" name_de="Sensor Drehzahl 3" />
+    <data variant="D3AR5" chapter="Steuerventil kompl" gapl="070180" part="10" grips="07 12" name_en="Schift Cont int" name_de="Schaltsteuerung intern" />
+    <data variant="D3AR5" chapter="Schaltung Einbau" gapl="0702" part="11" grips="07 18 10" name_en="Gear Range Selec" name_de="Fahrstufenw„hlhebel" />
+    <data variant="D3AR5" chapter="Schaltung Einbau" gapl="0702" part="11" grips="07 18 15" name_en="Gearshift Cable" name_de="Schaltzug" />
+    <data variant="D3AR5" chapter="Schaltger„t kompl" gapl="070210" part="12" grips="07 18 10" name_en="Gear Range Selec" name_de="Fahrstufenw„hlhebel" />
+    <data variant="D3AR5" chapter="Antriebsstrang Anbau" gapl="08" part="1" grips="08" name_en="Drive Line" name_de="Antriebsstrang" />
+    <data variant="D3AR5" chapter="Getriebeeinheit Einbau" gapl="0801" part="2" grips="08 01" name_en="Transm Unit" name_de="Getriebeeinheit" />
+    <data variant="D3AR5" chapter="Getriebeeinheit kompl" gapl="080130" part="5" grips="07" name_en="Automatic Trans" name_de="Automatisches Getriebe" />
+    <data variant="D3AR5" chapter="Getriebeeinheit kompl" gapl="080130" part="5" grips="08 01" name_en="Transm Unit" name_de="Getriebeeinheit" />
+    <data variant="D3AR5" chapter="Getriebeeinheit kompl" gapl="080130" part="5" grips="08 10" name_en="Transfer Case" name_de="Verteilergetriebe" />
+    <data variant="D3AR5" chapter="Getriebeeinheit kompl" gapl="080130" part="5" grips="08 10 10 10" name_en="Speed Sensor" name_de="Drehzahlgeber" />
+    <data variant="D3AR5" chapter="Getriebeeinheit kompl" gapl="080130" part="5" grips="08 10 10 20" name_en="Silentblock" name_de="Silentblock und Lagerungen" />
+    <data variant="D3AR5" chapter="Getriebeeinheit kompl" gapl="080130" part="5" grips="08 20" name_en="Diff Gear Box 2" name_de="Ausgleichgetriebe 2" />
+    <data variant="D3AR5" chapter="™lwannenschutz" gapl="080131" part="6" grips="07 13" name_en="Oil Pan" name_de="™lwanne" />
+    <data variant="D3AR5" chapter="Verteilergetriebe u. Ventil Einbau" gapl="080132" part="7" grips="08 10" name_en="Transfer Case" name_de="Verteilergetriebe" />
+    <data variant="D3AR5" chapter="Verteilergetriebe u. Ventil Einbau" gapl="080132" part="7" grips="08 10 01" name_en="Controls Transfer Case" name_de="Bedienelemente Verteilergetriebe" />
+    <data variant="D3AR5" chapter="Verteilergetriebe u. Ventil Einbau" gapl="080132" part="7" grips="08 10 01 01" name_en="Shift Cyl" name_de="Schaltzylinder" />
+    <data variant="D3AR5" chapter="Verteilergetriebe u. Ventil Einbau" gapl="080132" part="7" grips="08 10 01 03" name_en="Solenoid Valve Sh Cy" name_de="Magnetventil Schaltzyllinder DURO" />
+    <data variant="D3AR5" chapter="Verteilergetriebe u. Ventil Einbau" gapl="080132" part="7" grips="08 10 01 05" name_en="Shift-Pos Switch" name_de="Schalter Schaltposition" />
+    <data variant="D3AR5" chapter="Verteilergetriebe u. Ventil Einbau" gapl="080132" part="7" grips="08 10 50" name_en="Input Group" name_de="Eingangsgruppe" />
+    <data variant="D3AR5" chapter="Verteilergetriebe u. Ventil Einbau" gapl="080132" part="7" grips="08 10 50 10" name_en="Seal Input Shaft" name_de="Dichtring Eingangswelle" />
+    <data variant="D3AR5" chapter="Verteilergetriebe u. Ventil Einbau" gapl="080132" part="7" grips="08 10 70 10" name_en="Seal Output Fron" name_de="Dichtring Abtrieb vorne" />
+    <data variant="D3AR5" chapter="Verteilergetriebe u. Ventil Einbau" gapl="080132" part="7" grips="08 10 70 20" name_en="Seal Output Rear" name_de="Dichtring Abtrieb hinten" />
+    <data variant="D3AR5" chapter="Verteilergetriebe u. Ventil Einbau" gapl="080132" part="7" grips="08 10 80" name_en="Gear Oil" name_de="Getriebe”l" />
+    <data variant="D3AR5" chapter="Ausgleichgetriebe 2. Achse kompl" gapl="080133" part="8" grips="08 20" name_en="Diff Gear Box 2" name_de="Ausgleichgetriebe 2" />
+    <data variant="D3AR5" chapter="Ausgleichgetriebe 2. Achse kompl" gapl="080133" part="8" grips="12 01 10 70" name_en="Brake Caliper" name_de="Bremssattel" />
+    <data variant="D3AR5" chapter="Ausgleichgetriebe 2. Achse" gapl="080134" part="9" grips="08 15 30 10" name_en="Seal Output Tran" name_de="Wellendichtring Abtriebswelle quer" />
+    <data variant="D3AR5" chapter="Ausgleichgetriebe 2. Achse" gapl="080134" part="9" grips="08 15 40 10" name_en="Seal Front Cover" name_de="Dichtring Deckel vorne" />
+    <data variant="D3AR5" chapter="Ausgleichgetriebe 2. Achse" gapl="080134" part="9" grips="08 20 60" name_en="Gear Oil" name_de="Getriebe”l" />
+    <data variant="D3AR5" chapter="Generator SF252-46-A Anbau" gapl="080135" part="10" grips="06 05 10" name_en="Alternator" name_de="Generator" />
+    <data variant="D3AR5" chapter="Generator SF252-46-B Anbau" gapl="080136" part="11" grips="06 05 10" name_en="Alternator" name_de="Generator" />
+    <data variant="D3AR5" chapter="Generatorantrieb kompl" gapl="080137" part="12" grips="07 05 01" name_en="Oil Pump 1" name_de="™lpumpe 1" />
+    <data variant="D3AR5" chapter="Generatorantrieb kompl" gapl="080137" part="12" grips="07 05 02" name_en="Seal Turb Shaft" name_de="Dichtring Turbinenwelle" />
+    <data variant="D3AR5" chapter="Generatorantrieb kompl" gapl="080137" part="12" grips="07 05 04" name_en="Flex Plate" name_de="Flexplatten" />
+    <data variant="D3AR5" chapter="Generatorantrieb kompl" gapl="080137" part="12" grips="07 05 05" name_en="Torque Con Housg" name_de="Wandlergeh„use" />
+    <data variant="D3AR5" chapter="Generatorantrieb kompl" gapl="080137" part="12" grips="07 06" name_en="Generator Drive" name_de="Generatorantrieb-Gruppe mechanisch" />
+    <data variant="D3AR5" chapter="Generatorantrieb kompl" gapl="080137" part="12" grips="07 06 04" name_en="Gear Oil" name_de="Getriebe”l" />
+    <data variant="D3AR5" chapter="Anlasser Anbau / Entst”rkondensator" gapl="080138" part="13" grips="06 10 10" name_en="Starter" name_de="Anlasser" />
+    <data variant="D3AR5" chapter="Ausgleichgetriebe 1. Achse Einbau" gapl="0802" part="14" grips="08 15" name_en="Diff Gear Box 1" name_de="Ausgleichgetriebe 1" />
+    <data variant="D3AR5" chapter="Ausgleichgetriebe 1. Achse Einbau" gapl="0802" part="14" grips="08 40" name_en="Offset Tran" name_de="Versatzgetriebe" />
+    <data variant="D3AR5" chapter="Ausgleichgetriebe 1. Achse kompl" gapl="080210" part="15" grips="08 15" name_en="Diff Gear Box 1" name_de="Ausgleichgetriebe 1" />
+    <data variant="D3AR5" chapter="Ausgleichgetriebe 1. Achse kompl" gapl="080210" part="15" grips="08 15 10 30" name_en="Silent Bloc Bush" name_de="Bchsen Silentblock" />
+    <data variant="D3AR5" chapter="Ausgleichgetriebe 1. Achse kompl" gapl="080210" part="15" grips="12 01 10 90" name_en="Brake Disk" name_de="Bremsscheibe" />
+    <data variant="D3AR5" chapter="Ausgleichgetriebe 1. Achse kompl" gapl="080210" part="15" grips="12 01 30" name_en="ABS" name_de="Antiblokiersystem" />
+    <data variant="D3AR5" chapter="Ausgleichgetriebe 1. Achse kompl" gapl="080210" part="15" grips="12 01 30 05" name_en="Speed Sensor ABS" name_de="Drehzahlgeber ABS" />
+    <data variant="D3AR5" chapter="Ausgleichgetriebe 1. Achse" gapl="080211" part="16" grips="08 15 30 10" name_en="Seal Output Tran" name_de="Wellendichtring Abtriebswelle quer" />
+    <data variant="D3AR5" chapter="Ausgleichgetriebe 1. Achse" gapl="080211" part="16" grips="08 15 40 10" name_en="Seal Front Cover" name_de="Dichtring Deckel vorne" />
+    <data variant="D3AR5" chapter="Ausgleichgetriebe 1. Achse" gapl="080211" part="16" grips="08 15 60" name_en="Gear Oil" name_de="Getriebe”l" />
+    <data variant="D3AR5" chapter="Versatzgetriebe" gapl="080212" part="17" grips="08 40" name_en="Offset Tran" name_de="Versatzgetriebe" />
+    <data variant="D3AR5" chapter="Versatzgetriebe" gapl="080212" part="17" grips="08 40 05" name_en="Input Seal" name_de="Dichtring Eingangswelle" />
+    <data variant="D3AR5" chapter="Versatzgetriebe" gapl="080212" part="17" grips="08 40 10" name_en="Gear Oil" name_de="Getriebe”l" />
+    <data variant="D3AR5" chapter="Ausgleichgetriebe 3. Achse Einbau" gapl="0803" part="18" grips="08 25" name_en="Diff Gear Box 3" name_de="Ausgleichgetriebe 3" />
+    <data variant="D3AR5" chapter="Ausgleichgetriebe 3. Achse kompl" gapl="080310" part="19" grips="08 25" name_en="Diff Gear Box 3" name_de="Ausgleichgetriebe 3" />
+    <data variant="D3AR5" chapter="Ausgleichgetriebe 3. Achse kompl" gapl="080310" part="19" grips="08 25 10 30" name_en="Silent Bloc Bush" name_de="Bchsen Silentblock" />
+    <data variant="D3AR5" chapter="Ausgleichgetriebe 3. Achse kompl" gapl="080310" part="19" grips="12 01 10 70" name_en="Brake Caliper" name_de="Bremssattel" />
+    <data variant="D3AR5" chapter="Ausgleichgetriebe 3. Achse kompl" gapl="080310" part="19" grips="12 01 30" name_en="ABS" name_de="Antiblokiersystem" />
+    <data variant="D3AR5" chapter="Ausgleichgetriebe 3. Achse kompl" gapl="080310" part="19" grips="12 01 30 05" name_en="Speed Sensor ABS" name_de="Drehzahlgeber ABS" />
+    <data variant="D3AR5" chapter="Ausgleichgetriebe 3. Achse" gapl="080311" part="20" grips="08 15 30 10" name_en="Seal Output Tran" name_de="Wellendichtring Abtriebswelle quer" />
+    <data variant="D3AR5" chapter="Ausgleichgetriebe 3. Achse" gapl="080311" part="20" grips="08 15 40 10" name_en="Seal Front Cover" name_de="Dichtring Deckel vorne" />
+    <data variant="D3AR5" chapter="Ausgleichgetriebe 3. Achse" gapl="080311" part="20" grips="08 25 60" name_en="Gear Oil" name_de="Getriebe”l" />
+    <data variant="D3AR5" chapter="Bremssattel li/re (Wabco)" gapl="080312" part="21" grips="12 01 10 70" name_en="Brake Caliper" name_de="Bremssattel" />
+    <data variant="D3AR5" chapter="Bremssattel li/re (Knott)" gapl="080313" part="22" grips="12 01 10 70" name_en="Brake Caliper" name_de="Bremssattel" />
+    <data variant="D3AR5" chapter="Entlftung u. Montagematerial" gapl="080320" part="23" grips="08 25 10 30" name_en="Silent Bloc Bush" name_de="Bchsen Silentblock" />
+    <data variant="D3AR5" chapter="Gelenkwelle Motor-Autom Getriebe" gapl="0804" part="24" grips="08 05" name_en="Prop Shafts" name_de="Gelenkwellen L„ngsstrang" />
+    <data variant="D3AR5" chapter="Gelenkwelle Motor-Autom Getriebe" gapl="0804" part="24" grips="08 05 10" name_en="Prop Shaft PP-TC" name_de="Gelenkwelle Antriebsgruppe/Verteilergetriebe" />
+    <data variant="D3AR5" chapter="&quot;Gelenkwelle 1. Achse &quot;&quot;Version A&quot;&quot;&quot;" gapl="0805" part="25" grips="08 05" name_en="Prop Shafts" name_de="Gelenkwellen L„ngsstrang" />
+    <data variant="D3AR5" chapter="&quot;Gelenkwelle 1. Achse &quot;&quot;Version A&quot;&quot;&quot;" gapl="0805" part="25" grips="08 05 20" name_en="Prop Shaft 1" name_de="Gelenkwelle 1" />
+    <data variant="D3AR5" chapter="&quot;Gelenkwelle 1. Achse &quot;&quot;Version B&quot;&quot;&quot;" gapl="0806" part="26" grips="08 05" name_en="Prop Shafts" name_de="Gelenkwellen L„ngsstrang" />
+    <data variant="D3AR5" chapter="&quot;Gelenkwelle 1. Achse &quot;&quot;Version B&quot;&quot;&quot;" gapl="0806" part="26" grips="08 05 20" name_en="Prop Shaft 1" name_de="Gelenkwelle 1" />
+    <data variant="D3AR5" chapter="&quot;Gelenkwelle 1. Achse &quot;&quot;Version C&quot;&quot;&quot;" gapl="0807" part="27" grips="08 05" name_en="Prop Shafts" name_de="Gelenkwellen L„ngsstrang" />
+    <data variant="D3AR5" chapter="&quot;Gelenkwelle 1. Achse &quot;&quot;Version C&quot;&quot;&quot;" gapl="0807" part="27" grips="08 05 20" name_en="Prop Shaft 1" name_de="Gelenkwelle 1" />
+    <data variant="D3AR5" chapter="Gelenkwelle 3. Achse" gapl="0808" part="28" grips="08 05 30" name_en="Prop Shaft 2" name_de="Gelenkwelle 2" />
+    <data variant="D3AR5" chapter="Fahrwerk šbersicht" gapl="09" part="1" grips="09" name_en="Suspension" name_de="Fahrwerk  Aufh„ngung" />
+    <data variant="D3AR5" chapter="1. Achse Einbau" gapl="0901" part="2" grips="09 05" name_en="Axle 1 Steerable" name_de="Achse 1 lenkbar" />
+    <data variant="D3AR5" chapter="1. Achse Einbau" gapl="0901" part="2" grips="09 05 30" name_en="Wheel Drive" name_de="Radantrieb" />
+    <data variant="D3AR5" chapter="1. Achse Einbau" gapl="0901" part="2" grips="14 09" name_en="Tie Rod" name_de="Spurstange" />
+    <data variant="D3AR5" chapter="Radantrieb 1. Achse" gapl="090110" part="3" grips="09 05 30" name_en="Wheel Drive" name_de="Radantrieb" />
+    <data variant="D3AR5" chapter="Radantrieb 1. Achse" gapl="090110" part="3" grips="09 05 40" name_en="Drive Shaft" name_de="Gelenkwelle zu den Radantrieben" />
+    <data variant="D3AR5" chapter="Radantrieb 1. Achse" gapl="090110" part="3" grips="09 05 40 10" name_en="Seal Dr Shaft" name_de="Dichtring Gelenkwelle" />
+    <data variant="D3AR5" chapter="Radantrieb 1. Achse" gapl="090110" part="3" grips="09 05 50 20" name_en="Seal Wheel Hub" name_de="Dichtring Radnabe" />
+    <data variant="D3AR5" chapter="Radantrieb 1. Achse" gapl="090110" part="3" grips="09 05 50 40" name_en="Bearing Wheel Hb" name_de="Lager Radnabe" />
+    <data variant="D3AR5" chapter="Radantrieb 1. Achse" gapl="090110" part="3" grips="09 05 50 60" name_en="Wheel Stud" name_de="Radbolzen" />
+    <data variant="D3AR5" chapter="Radantrieb 1. Achse" gapl="090110" part="3" grips="09 05 60" name_en="Gear Set" name_de="Zahnradsatz" />
+    <data variant="D3AR5" chapter="Radantrieb 1. Achse" gapl="090110" part="3" grips="09 05 70 25" name_en="Stub Axle" name_de="Achsstummel" />
+    <data variant="D3AR5" chapter="Radantrieb 1. Achse" gapl="090110" part="3" grips="09 05 90" name_en="Gear Oil" name_de="Getriebe”l" />
+    <data variant="D3AR5" chapter="Radantrieb 1. Achse" gapl="090110" part="3" grips="09 55 10" name_en="CTIS Valve" name_de="Reifendruckregelventil" />
+    <data variant="D3AR5" chapter="Radantrieb 1. Achse" gapl="090110" part="3" grips="14 09" name_en="Tie Rod" name_de="Spurstange" />
+    <data variant="D3AR5" chapter="Achsschenkellagerung" gapl="090120" part="4" grips="09 05 70 10" name_en="Steering Lever" name_de="Lenkhebel Achsschenkel" />
+    <data variant="D3AR5" chapter="Wattgest„nge 1. Achse" gapl="090130" part="5" grips="09 05 01" name_en="Watt Linkage" name_de="Wattgest„nge" />
+    <data variant="D3AR5" chapter="Spurstangen" gapl="090140" part="6" grips="14 09" name_en="Tie Rod" name_de="Spurstange" />
+    <data variant="D3AR5" chapter="2. Achse Einbau" gapl="0902" part="7" grips="09 15" name_en="Axle 2 Unsteered" name_de="Achse 2 ungelenkt" />
+    <data variant="D3AR5" chapter="2. Achse Einbau" gapl="0902" part="7" grips="09 15 30" name_en="Wheel Drive" name_de="Radantrieb" />
+    <data variant="D3AR5" chapter="Radantrieb 2. Achse" gapl="090210" part="8" grips="09 05 40" name_en="Drive Shaft" name_de="Gelenkwelle zu den Radantrieben" />
+    <data variant="D3AR5" chapter="Radantrieb 2. Achse" gapl="090210" part="8" grips="09 05 40 10" name_en="Seal Dr Shaft" name_de="Dichtring Gelenkwelle" />
+    <data variant="D3AR5" chapter="Radantrieb 2. Achse" gapl="090210" part="8" grips="09 05 50 20" name_en="Seal Wheel Hub" name_de="Dichtring Radnabe" />
+    <data variant="D3AR5" chapter="Radantrieb 2. Achse" gapl="090210" part="8" grips="09 05 50 40" name_en="Bearing Wheel Hb" name_de="Lager Radnabe" />
+    <data variant="D3AR5" chapter="Radantrieb 2. Achse" gapl="090210" part="8" grips="09 05 50 60" name_en="Wheel Stud" name_de="Radbolzen" />
+    <data variant="D3AR5" chapter="Radantrieb 2. Achse" gapl="090210" part="8" grips="09 05 60" name_en="Gear Set" name_de="Zahnradsatz" />
+    <data variant="D3AR5" chapter="Radantrieb 2. Achse" gapl="090210" part="8" grips="09 05 70 25" name_en="Stub Axle" name_de="Achsstummel" />
+    <data variant="D3AR5" chapter="Radantrieb 2. Achse" gapl="090210" part="8" grips="09 15 30" name_en="Wheel Drive" name_de="Radantrieb" />
+    <data variant="D3AR5" chapter="Radantrieb 2. Achse" gapl="090210" part="8" grips="09 55 10" name_en="CTIS Valve" name_de="Reifendruckregelventil" />
+    <data variant="D3AR5" chapter="Wattgest„nge 2. Achse" gapl="090220" part="9" grips="09 05 01" name_en="Watt Linkage" name_de="Wattgest„nge" />
+    <data variant="D3AR5" chapter="3. Achse Einbau" gapl="0903" part="10" grips="09 15" name_en="Axle 2 Unsteered" name_de="Achse 2 ungelenkt" />
+    <data variant="D3AR5" chapter="3. Achse Einbau" gapl="0903" part="10" grips="09 15 30" name_en="Wheel Drive" name_de="Radantrieb" />
+    <data variant="D3AR5" chapter="Radantrieb 3. Achse" gapl="090310" part="11" grips="09 05 40" name_en="Drive Shaft" name_de="Gelenkwelle zu den Radantrieben" />
+    <data variant="D3AR5" chapter="Radantrieb 3. Achse" gapl="090310" part="11" grips="09 05 40 10" name_en="Seal Dr Shaft" name_de="Dichtring Gelenkwelle" />
+    <data variant="D3AR5" chapter="Radantrieb 3. Achse" gapl="090310" part="11" grips="09 05 50 20" name_en="Seal Wheel Hub" name_de="Dichtring Radnabe" />
+    <data variant="D3AR5" chapter="Radantrieb 3. Achse" gapl="090310" part="11" grips="09 05 50 40" name_en="Bearing Wheel Hb" name_de="Lager Radnabe" />
+    <data variant="D3AR5" chapter="Radantrieb 3. Achse" gapl="090310" part="11" grips="09 05 50 60" name_en="Wheel Stud" name_de="Radbolzen" />
+    <data variant="D3AR5" chapter="Radantrieb 3. Achse" gapl="090310" part="11" grips="09 05 60" name_en="Gear Set" name_de="Zahnradsatz" />
+    <data variant="D3AR5" chapter="Radantrieb 3. Achse" gapl="090310" part="11" grips="09 05 70 25" name_en="Stub Axle" name_de="Achsstummel" />
+    <data variant="D3AR5" chapter="Radantrieb 3. Achse" gapl="090310" part="11" grips="09 25 30" name_en="Wheel Drive" name_de="Radantrieb" />
+    <data variant="D3AR5" chapter="Radantrieb 3. Achse" gapl="090310" part="11" grips="09 55 10" name_en="CTIS Valve" name_de="Reifendruckregelventil" />
+    <data variant="D3AR5" chapter="Wattgest„nge 3. Achse" gapl="090320" part="12" grips="09 05 01" name_en="Watt Linkage" name_de="Wattgest„nge" />
+    <data variant="D3AR5" chapter="Gelenkwelle Radantrieb" gapl="090330" part="13" grips="09 05 40" name_en="Drive Shaft" name_de="Gelenkwelle zu den Radantrieben" />
+    <data variant="D3AR5" chapter="Federung 1. Achse" gapl="0904" part="14" grips="09 05 20" name_en="Susp Unit Steer LH" name_de="Einzelradaufh„ngung links  lenkbar" />
+    <data variant="D3AR5" chapter="Federung 1. Achse" gapl="0904" part="14" grips="09 05 20 20" name_en="Spring" name_de="Feder" />
+    <data variant="D3AR5" chapter="Federung 2. Achse" gapl="0905" part="15" grips="09 15 10 15" name_en="Spring" name_de="Feder" />
+    <data variant="D3AR5" chapter="Federung 2. Achse" gapl="0905" part="16" grips="09 15 10 10" name_en="Shock Absorber" name_de="Stossd„mpfer" />
+    <data variant="D3AR5" chapter="Federung 3. Achse" gapl="0906" part="17" grips="09 15 10 15" name_en="Spring" name_de="Feder" />
+    <data variant="D3AR5" chapter="Federung 3. Achse" gapl="0906" part="18" grips="09 15 10 10" name_en="Shock Absorber" name_de="Stossd„mpfer" />
+    <data variant="D3AR5" chapter="Wankstabilisator" gapl="0907" part="19" grips="09 01" name_en="Roll Stabilizer" name_de="Wankstabilisator" />
+    <data variant="D3AR5" chapter="Wankstabilisator (neue Ausfhrung)" gapl="0908" part="20" grips="09 01" name_en="Roll Stabilizer" name_de="Wankstabilisator" />
+    <data variant="D3AR5" chapter="Rad kompl" gapl="0909" part="21" grips="09 55" name_en="Wheel CTIS" name_de="Rad  RDRA" />
+    <data variant="D3AR5" chapter="Rad kompl" gapl="0909" part="21" grips="09 55 30" name_en="Tire" name_de="Reifen" />
+    <data variant="D3AR5" chapter="Rad kompl" gapl="0909" part="21" grips="09 60 20" name_en="Rim" name_de="Felge" />
+    <data variant="D3AR5" chapter="Rad kompl" gapl="0909" part="21" grips="09 60 30" name_en="Tire" name_de="Reifen" />
+    <data variant="D3AR5" chapter="Ersatzrad kompl" gapl="0910" part="22" grips="09 55" name_en="Wheel CTIS" name_de="Rad  RDRA" />
+    <data variant="D3AR5" chapter="Ersatzrad kompl" gapl="0910" part="22" grips="09 55 30" name_en="Tire" name_de="Reifen" />
+    <data variant="D3AR5" chapter="Ersatzrad kompl" gapl="0910" part="22" grips="09 60 20" name_en="Rim" name_de="Felge" />
+    <data variant="D3AR5" chapter="Ersatzrad kompl" gapl="0910" part="22" grips="09 60 30" name_en="Tire" name_de="Reifen" />
+    <data variant="D3AR5" chapter="Bremsanlage" gapl="12" part="1" grips="12" name_en="Brake+Pneuma Sys" name_de="Brems- und Pneumatische Anlage" />
+    <data variant="D3AR5" chapter="Druckluftaufbereitung Einbau" gapl="1201" part="2" grips="12 02" name_en="Pneumatic System" name_de="Pneumatische Anlage" />
+    <data variant="D3AR5" chapter="Druckluftaufbereitung Einbau" gapl="1201" part="2" grips="12 02 15" name_en="Air Dryer" name_de="Lufttrockner" />
+    <data variant="D3AR5" chapter="Druckluftaufbereitung Einbau" gapl="1201" part="2" grips="12 02 15 10" name_en="Filt C Air Dryer" name_de="Filterelement Lufttrockner" />
+    <data variant="D3AR5" chapter="Druckluftaufbereitung Einbau" gapl="1201" part="2" grips="12 02 18" name_en="Pressure Regulat" name_de="Druckregler" />
+    <data variant="D3AR5" chapter="Druckluftaufbereitung Einbau" gapl="1201" part="2" grips="12 02 21" name_en="Regenerat Tank" name_de="Regenerationsbeh„lter" />
+    <data variant="D3AR5" chapter="Druckbeh„lter vo Einbau" gapl="1202" part="3" grips="12 02" name_en="Pneumatic System" name_de="Pneumatische Anlage" />
+    <data variant="D3AR5" chapter="Druckbeh„lter vo Einbau" gapl="1202" part="3" grips="12 02 30" name_en="Compr Air Tank" name_de="Druckluftbeh„lter" />
+    <data variant="D3AR5" chapter="Druckbeh„lter vo kompl" gapl="120210" part="4" grips="12 02" name_en="Pneumatic System" name_de="Pneumatische Anlage" />
+    <data variant="D3AR5" chapter="Druckbeh„lter vo kompl" gapl="120210" part="4" grips="12 02 30" name_en="Compr Air Tank" name_de="Druckluftbeh„lter" />
+    <data variant="D3AR5" chapter="Druckbeh„lter hi Einbau" gapl="1203" part="5" grips="09 65 10" name_en="Air Tank CTIS" name_de="RDRA Vorratsbeh„lter Luft" />
+    <data variant="D3AR5" chapter="Bremsteilesatz" gapl="1204" part="6" grips="12 01 10 90" name_en="Brake Disk" name_de="Bremsscheibe" />
+    <data variant="D3AR5" chapter="Bremskraftregler kompl" gapl="120410" part="7" grips="12 02 54" name_en="Brake Power Reg" name_de="Bremskraftregler Lastabh„nging" />
+    <data variant="D3AR5" chapter="Bet„tigung Feststellbremse Einbau" gapl="1205" part="8" grips="12 01 20" name_en="Parking Brake" name_de="Feststellbremse" />
+    <data variant="D3AR5" chapter="Bet„tigung Feststellbremse Einbau" gapl="1205" part="8" grips="12 02" name_en="Pneumatic System" name_de="Pneumatische Anlage" />
+    <data variant="D3AR5" chapter="Feststellbremsventil kompl" gapl="120510" part="9" grips="12 02 45" name_en="Valve Park Brake" name_de="Ventil Parkbremse" />
+    <data variant="D3AR5" chapter="3/2-Wegeventil kompl" gapl="120520" part="10" grips="12 02 45" name_en="Valve Park Brake" name_de="Ventil Parkbremse" />
+    <data variant="D3AR5" chapter="Federspeicher 2. Achse Anbau" gapl="1206" part="11" grips="12 01 20" name_en="Parking Brake" name_de="Feststellbremse" />
+    <data variant="D3AR5" chapter="Federspeicher 2. Achse Anbau" gapl="1206" part="11" grips="12 01 20 26" name_en="Brake Caliper" name_de="Bremszange" />
+    <data variant="D3AR5" chapter="Federspeicher 2. Achse Anbau" gapl="1206" part="11" grips="12 02" name_en="Pneumatic System" name_de="Pneumatische Anlage" />
+    <data variant="D3AR5" chapter="Federspeicherzylinder kompl" gapl="120610" part="12" grips="12 01 20 26" name_en="Brake Caliper" name_de="Bremszange" />
+    <data variant="D3AR5" chapter="Schnelll”sventil kompl" gapl="120611" part="13" grips="12 02" name_en="Pneumatic System" name_de="Pneumatische Anlage" />
+    <data variant="D3AR5" chapter="Schnelll”sventil kompl" gapl="120611" part="13" grips="12 02 45" name_en="Valve Park Brake" name_de="Ventil Parkbremse" />
+    <data variant="D3AR5" chapter="Schnelll”sventil kompl" gapl="120611" part="13" grips="12 02 46" name_en="Switch Signal ParkBrake" name_de="Druckschalter Parkbremse" />
+    <data variant="D3AR5" chapter="Zangenbremse 2. Achse kompl" gapl="120620" part="14" grips="12 01 20" name_en="Parking Brake" name_de="Feststellbremse" />
+    <data variant="D3AR5" chapter="Zangenbremse 2. Achse (Wabco)" gapl="120621" part="15" grips="12 01 20 24" name_en="Brake Pad" name_de="Bremsbelag" />
+    <data variant="D3AR5" chapter="Zangenbremse 2. Achse (Wabco)" gapl="120621" part="15" grips="12 01 20 26" name_en="Brake Caliper" name_de="Bremszange" />
+    <data variant="D3AR5" chapter="Zangenbremse 2. Achse (Knott)" gapl="120622" part="15a" grips="12 01 20 24" name_en="Brake Pad" name_de="Bremsbelag" />
+    <data variant="D3AR5" chapter="Zangenbremse 2. Achse (Knott)" gapl="120622" part="15a" grips="12 01 20 26" name_en="Brake Caliper" name_de="Bremszange" />
+    <data variant="D3AR5" chapter="Federspeicher 3. Achse Anbau" gapl="120701" part="16" grips="12 01 20" name_en="Parking Brake" name_de="Feststellbremse" />
+    <data variant="D3AR5" chapter="Federspeicher 3. Achse Anbau" gapl="120701" part="16" grips="12 01 20 26" name_en="Brake Caliper" name_de="Bremszange" />
+    <data variant="D3AR5" chapter="Federspeicher 3. Achse Anbau" gapl="120701" part="16" grips="12 02" name_en="Pneumatic System" name_de="Pneumatische Anlage" />
+    <data variant="D3AR5" chapter="Federspeicher 3. Achse Anbau" gapl="120702" part="16a" grips="12 01 20" name_en="Parking Brake" name_de="Feststellbremse" />
+    <data variant="D3AR5" chapter="Federspeicher 3. Achse Anbau" gapl="120702" part="16a" grips="12 01 20 26" name_en="Brake Caliper" name_de="Bremszange" />
+    <data variant="D3AR5" chapter="Federspeicher 3. Achse Anbau" gapl="120702" part="16a" grips="12 02" name_en="Pneumatic System" name_de="Pneumatische Anlage" />
+    <data variant="D3AR5" chapter="Zangenbremse 3. Achse li (Wabco)" gapl="120710" part="17" grips="12 01 20" name_en="Parking Brake" name_de="Feststellbremse" />
+    <data variant="D3AR5" chapter="Zangenbremse 3. Achse li (Wabco)" gapl="120710" part="17" grips="12 01 20 24" name_en="Brake Pad" name_de="Bremsbelag" />
+    <data variant="D3AR5" chapter="Zangenbremse 3. Achse li (Wabco)" gapl="120710" part="17" grips="12 01 20 26" name_en="Brake Caliper" name_de="Bremszange" />
+    <data variant="D3AR5" chapter="Zangenbremse 3. Achse li (Knott)" gapl="120720" part="17a" grips="12 01 20" name_en="Parking Brake" name_de="Feststellbremse" />
+    <data variant="D3AR5" chapter="Zangenbremse 3. Achse li (Knott)" gapl="120720" part="17a" grips="12 01 20 24" name_en="Brake Pad" name_de="Bremsbelag" />
+    <data variant="D3AR5" chapter="Zangenbremse 3. Achse li (Knott)" gapl="120720" part="17a" grips="12 01 20 26" name_en="Brake Caliper" name_de="Bremszange" />
+    <data variant="D3AR5" chapter="Zangenbremse 3. Achse re (Wabco)" gapl="120730" part="18" grips="12 01 20" name_en="Parking Brake" name_de="Feststellbremse" />
+    <data variant="D3AR5" chapter="Zangenbremse 3. Achse re (Wabco)" gapl="120730" part="18" grips="12 01 20 24" name_en="Brake Pad" name_de="Bremsbelag" />
+    <data variant="D3AR5" chapter="Zangenbremse 3. Achse re (Wabco)" gapl="120730" part="18" grips="12 01 20 26" name_en="Brake Caliper" name_de="Bremszange" />
+    <data variant="D3AR5" chapter="Zangenbremse 3. Achse re (Knott)" gapl="120740" part="18a" grips="12 01 20" name_en="Parking Brake" name_de="Feststellbremse" />
+    <data variant="D3AR5" chapter="Zangenbremse 3. Achse re (Knott)" gapl="120740" part="18a" grips="12 01 20 24" name_en="Brake Pad" name_de="Bremsbelag" />
+    <data variant="D3AR5" chapter="Zangenbremse 3. Achse re (Knott)" gapl="120740" part="18a" grips="12 01 20 26" name_en="Brake Caliper" name_de="Bremszange" />
+    <data variant="D3AR5" chapter="Bet„tigung Motorbremse" gapl="1208" part="19" grips="12 04" name_en="Engine Brake" name_de="Motorbremse" />
+    <data variant="D3AR5" chapter="Reifendruckregelanlage CTIS IIIS Einbau" gapl="120901" part="20" grips="09 65" name_en="CTIS" name_de="Reifendruckregelanlage" />
+    <data variant="D3AR5" chapter="Reifendruckregelanlage CTIS IIIS Einbau" gapl="120901" part="20" grips="09 70" name_en="Control CTIS" name_de="Steuerung CTIS" />
+    <data variant="D3AR5" chapter="Reifendruckregelanlage CTIS IIIS Einbau" gapl="120901" part="20" grips="09 70 10" name_en="ECU CTIS" name_de="Steuerger„t CTIS" />
+    <data variant="D3AR5" chapter="Reifendruckregelanlage CTIS IIIS Einbau" gapl="120901" part="20" grips="09 70 20" name_en="PCU CTIS" name_de="Steuerger„t pneumatisch CTIS" />
+    <data variant="D3AR5" chapter="Reifendruckregelanlage CTIS Power Einb" gapl="120902" part="20a" grips="09 71" name_en="CTIS II" name_de="Reifendruckregelanlage Varinate 2" />
+    <data variant="D3AR5" chapter="Reifendruckregelanlage CTIS Power Einb" gapl="120902" part="20a" grips="09 71 05" name_en="ECU CTIS II" name_de="Steuerger„t CTIS Variante 2" />
+    <data variant="D3AR5" chapter="Reifendruckregelanlage CTIS Power Einb" gapl="120902" part="20a" grips="09 71 08" name_en="PCU CTIS II" name_de="Steuerger„t pneumatisch CTIS Variante 2" />
+    <data variant="D3AR5" chapter="Reifendruckregelanlage CTIS Power Einb" gapl="120902" part="20a" grips="09 71 15" name_en="II Air Lines CTIS II" name_de="RDRA 2 Luftleitungen" />
+    <data variant="D3AR5" chapter="Ventile Einbau" gapl="1210" part="21" grips="09 65 11" name_en="CTIS Overflow Valve" name_de="RDRA šberst”mventil" />
+    <data variant="D3AR5" chapter="Ventile Einbau" gapl="1210" part="21" grips="09 65 12" name_en="CTIS Press Limit Valve" name_de="RDRA Druckregelventil" />
+    <data variant="D3AR5" chapter="Ventile Einbau" gapl="1210" part="21" grips="12 02" name_en="Pneumatic System" name_de="Pneumatische Anlage" />
+    <data variant="D3AR5" chapter="Ventile Einbau" gapl="1210" part="21" grips="12 02 24" name_en="4-Cir Prote Valv" name_de="Vierkreisschutzventil" />
+    <data variant="D3AR5" chapter="Ventile Einbau" gapl="1210" part="21" grips="12 02 30 11" name_en="Press Limit Valve" name_de="Druckreduzierventil Kreis" />
+    <data variant="D3AR5" chapter="Ventile Einbau" gapl="1210" part="21" grips="12 02 45" name_en="Valve Park Brake" name_de="Ventil Parkbremse" />
+    <data variant="D3AR5" chapter="Bremsaggregat Einbau" gapl="1211" part="22" grips="12 02 28" name_en="Press Sensors" name_de="Drucksensoren fr Anzeige" />
+    <data variant="D3AR5" chapter="Bremsaggregat Einbau" gapl="1211" part="22" grips="12 02 33" name_en="Valve Serv-Brake" name_de="Ventil Betriebsbremse" />
+    <data variant="D3AR5" chapter="Bremsaggregat kompl" gapl="121110" part="23" grips="12 01 10 08" name_en="Stoplight Switch" name_de="Bremslichtschalter" />
+    <data variant="D3AR5" chapter="Bremsaggregat kompl" gapl="121110" part="23" grips="12 02 33" name_en="Valve Serv-Brake" name_de="Ventil Betriebsbremse" />
+    <data variant="D3AR5" chapter="Vorspann- u. Hauptzylinder Einbau" gapl="1212" part="24" grips="12 01" name_en="Brake System" name_de="Bremsanlage" />
+    <data variant="D3AR5" chapter="Vorspann- u. Hauptzylinder Einbau" gapl="1212" part="24" grips="12 03 05" name_en="Brake Fluid" name_de="Bremsflssigkeit" />
+    <data variant="D3AR5" chapter="Vorspann- u. Hauptzylinder kompl" gapl="121210" part="25" grips="12 01" name_en="Brake System" name_de="Bremsanlage" />
+    <data variant="D3AR5" chapter="Vorspann- u. Hauptzylinder kompl" gapl="121210" part="25" grips="12 01 30" name_en="ABS" name_de="Antiblokiersystem" />
+    <data variant="D3AR5" chapter="Vorspann- u. Hauptzylinder kompl" gapl="121210" part="25" grips="12 02 36" name_en="Pr Cont Valv ABS" name_de="Drucksteuerventil ABS" />
+    <data variant="D3AR5" chapter="Vorspann- u. Hauptzylinder kompl" gapl="121210" part="26" grips="12 01" name_en="Brake System" name_de="Bremsanlage" />
+    <data variant="D3AR5" chapter="Zylinderkombinationen" gapl="121211" part="27" grips="12 01 10" name_en="Wheel Brake" name_de="Radbremse" />
+    <data variant="D3AR5" chapter="Zylinderkombinationen" gapl="121211" part="27" grips="12 02 42" name_en="Booster Air_Hydr" name_de="Vorspannzylinder" />
+    <data variant="D3AR5" chapter="Zylinderkombinationen" gapl="121211" part="27" grips="12 03 10" name_en="Brake Master Cyl" name_de="Hauptbremszylinder" />
+    <data variant="D3AR5" chapter="Zylinder kompl li u. re" gapl="121212" part="28" grips="12 01 10" name_en="Wheel Brake" name_de="Radbremse" />
+    <data variant="D3AR5" chapter="Zylinder kompl li u. re" gapl="121212" part="28" grips="12 03 10" name_en="Brake Master Cyl" name_de="Hauptbremszylinder" />
+    <data variant="D3AR5" chapter="Motorbremse u. Bremsventil Anbau" gapl="1213" part="29" grips="12 04" name_en="Engine Brake" name_de="Motorbremse" />
+    <data variant="D3AR5" chapter="Arretierung Feststellbremsventil" gapl="1214" part="30" grips="12 01 20 08" name_en="Lever Park Br" name_de="Parkbremshebel Mechanisch oder Hydraulisch" />
+    <data variant="D3AR5" chapter="Lenksystem šbersicht" gapl="14" part="1" grips="14" name_en="Steering" name_de="Lenkung" />
+    <data variant="D3AR5" chapter="Lenks„ule Einbau" gapl="1401" part="2" grips="06 20 51 06" name_en="Switch Turn Signal" name_de="Schalter Blinker Richtungsanzeige" />
+    <data variant="D3AR5" chapter="Lenks„ule Einbau" gapl="1401" part="2" grips="14 14 10" name_en="Steering Wheel" name_de="Lenkrad" />
+    <data variant="D3AR5" chapter="Lenks„ule Einbau" gapl="1401" part="2" grips="14 14 20" name_en="Steering Column" name_de="Lenks„ule" />
+    <data variant="D3AR5" chapter="Lenks„ule Einbau" gapl="1401" part="2" grips="19 04 50" name_en="Covers Int" name_de="Abdeckungen Innen" />
+    <data variant="D3AR5" chapter="Lenk”lbeh„lter Einbau" gapl="1402" part="3" grips="14 15" name_en="Hydr Syst Steer" name_de="Lenkhydraulik" />
+    <data variant="D3AR5" chapter="Lenk”lbeh„lter Einbau" gapl="1402" part="3" grips="14 15 10" name_en="Oil Tank Pow Ste" name_de="™lbeh„lter Lenkhydraulik" />
+    <data variant="D3AR5" chapter="Lenk”lbeh„lter Einbau" gapl="1402" part="3" grips="14 15 20" name_en="Filter El Pow St" name_de="Filterelement Lenkhydraulik" />
+    <data variant="D3AR5" chapter="Lenk”lbeh„lter Einbau" gapl="1402" part="3" grips="14 15 80" name_en="ATF" name_de="Automatengetriebe”l" />
+    <data variant="D3AR5" chapter="Lenkhilfepumpe u. Lenkgetriebe Einb" gapl="1403" part="4" grips="14 11" name_en="Steering Rod" name_de="Lenkstange" />
+    <data variant="D3AR5" chapter="Lenkhilfepumpe u. Lenkgetriebe Einb" gapl="1403" part="4" grips="14 13" name_en="Steering Box" name_de="Lenkgetriebe" />
+    <data variant="D3AR5" chapter="Lenkhilfepumpe u. Lenkgetriebe Einb" gapl="1403" part="4" grips="14 15 30" name_en="Power Steer Pump" name_de="Lenkhilfepumpe" />
+    <data variant="D3AR5" chapter="Lenkgetriebe Einbau (neue Lenkstange)" gapl="1404" part="5" grips="14 11" name_en="Steering Rod" name_de="Lenkstange" />
+    <data variant="D3AR5" chapter="Lenkgetriebe Einbau (neue Lenkstange)" gapl="1404" part="5" grips="14 13" name_en="Steering Box" name_de="Lenkgetriebe" />
+    <data variant="D3AR5" chapter="Lenkgetriebe Einbau (neue Lenkstange)" gapl="1404" part="5" grips="14 15 30" name_en="Power Steer Pump" name_de="Lenkhilfepumpe" />
+    <data variant="D3AR5" chapter="Kabine šbersicht" gapl="18" part="1" grips="18" name_en="Hull Frame" name_de="Wanne Rahmen" />
+    <data variant="D3AR5" chapter="Frontscheibe Einbau" gapl="1806" part="10" grips="19 04 15" name_en="Windshield" name_de="Frontscheibe" />
+    <data variant="D3AR5" chapter="Seitenscheiben Einbau" gapl="1807" part="11" grips="19 04 10" name_en="Cabin Doors" name_de="Kabinentre" />
+    <data variant="D3AR5" chapter="Wischersystem kompl" gapl="181010" part="15" grips="19 04 25" name_en="Wiper System" name_de="Scheibenwischersystem" />
+    <data variant="D3AR5" chapter="Tren Einbau" gapl="1811" part="16" grips="19 04 10" name_en="Cabin Doors" name_de="Kabinentre" />
+    <data variant="D3AR5" chapter="Tre re u. li kompl" gapl="181110" part="17" grips="19 04 10" name_en="Cabin Doors" name_de="Kabinentre" />
+    <data variant="D3AR5" chapter="Schliessung Kabine Einbau" gapl="1812" part="18" grips="19 04 10" name_en="Cabin Doors" name_de="Kabinentre" />
+    <data variant="D3AR5" chapter="Einstieg Einbau" gapl="1815" part="21" grips="19 04 55" name_en="Bracket Holders Ext" name_de="Halter aussen" />
+    <data variant="D3AR5" chapter="Radkasten vo kompl" gapl="1816" part="25" grips="18 27 01" name_en="Front Bumper" name_de="Stossstangen vonre" />
+    <data variant="D3AR5" chapter="Seitenschrzen Anbau" gapl="1818" part="28" grips="18 18" name_en="Shield" name_de="Schild" />
+    <data variant="D3AR5" chapter="Stossf„nger vo Einbau" gapl="1821" part="31" grips="18 27 01" name_en="Front Bumper" name_de="Stossstangen vonre" />
+    <data variant="D3AR5" chapter="Rckspiegel li Anbau" gapl="182210" part="35" grips="19 04 35" name_en="Rearview Mirror" name_de="Aussenspiegel" />
+    <data variant="D3AR5" chapter="Rckspiegel re Anbau" gapl="182230" part="37" grips="19 04 35" name_en="Rearview Mirror" name_de="Aussenspiegel" />
+    <data variant="D3AR5" chapter="Dachdeckel Anbau" gapl="1823" part="38" grips="19 04 11" name_en="Roof Hatch" name_de="Dachluke" />
+    <data variant="D3AR5" chapter="Drehstab u. Dachdeckel kompl" gapl="182310" part="39" grips="19 04 11" name_en="Roof Hatch" name_de="Dachluke" />
+    <data variant="D3AR5" chapter="Abdeckung ABC Anlage Einbau" gapl="1824" part="40" grips="25 15" name_en="NBC System" name_de="ABC-Anlage nicht Kombiger„t wie LSS" />
+    <data variant="D3AR5" chapter="Kippvorrichtung Einbau" gapl="1827" part="43" grips="19 04 05" name_en="Tilting System" name_de="Kippvorrichtung" />
+    <data variant="D3AR5" chapter="Schloss kompl" gapl="182710" part="44" grips="19 04 05" name_en="Tilting System" name_de="Kippvorrichtung" />
+    <data variant="D3AR5" chapter="Standheizungskasten kompl" gapl="183010" part="49" grips="06 20 83 25" name_en="Socket Slave Sta" name_de="Steckdose Fremdstart" />
+    <data variant="D3AR5" chapter="Motorabdeckung kompl" gapl="1831" part="50" grips="19 06" name_en="Auxilliary Unit" name_de="Aggregate-Raum hinter Cabine" />
+    <data variant="D3AR5" chapter="Verkleidung Mittelkonsole" gapl="1834" part="53" grips="19 04 50" name_en="Covers Int" name_de="Abdeckungen Innen" />
+    <data variant="D3AR5" chapter="Verschalung re kompl" gapl="1835" part="54" grips="19 04 50" name_en="Covers Int" name_de="Abdeckungen Innen" />
+    <data variant="D3AR5" chapter="Verschalung Mitte Einbau" gapl="1836" part="55" grips="19 04 50" name_en="Covers Int" name_de="Abdeckungen Innen" />
+    <data variant="D3AR5" chapter="Verschalung li kompl" gapl="1837" part="56" grips="19 04 50" name_en="Covers Int" name_de="Abdeckungen Innen" />
+    <data variant="D3AR5" chapter="Minenschutzsitze Einbau" gapl="1838" part="57" grips="19 04 65" name_en="Seats" name_de="Sitze" />
+    <data variant="D3AR5" chapter="Antriebsmotor Anbau Sitz" gapl="183811" part="59" grips="19 04 65" name_en="Seats" name_de="Sitze" />
+    <data variant="D3AR5" chapter="Gasbet„tigung" gapl="1839" part="67" grips="03 02 91" name_en="TPS" name_de="Sensor Fahrpedalstellung" />
+    <data variant="D3AR5" chapter="Zusatzpanzerung Kabine Einbau" gapl="1842" part="70" grips="19 04 39" name_en="Add-On Armor Cab" name_de="Zusatzpanzerung Kabine" />
+    <data variant="D3AR5" chapter="Schutzbleche Anbau" gapl="1847" part="75" grips="18" name_en="Hull Frame" name_de="Wanne Rahmen" />
+    <data variant="D3AR5" chapter="Entlftung Chassis" gapl="1849" part="77" grips="18" name_en="Hull Frame" name_de="Wanne Rahmen" />
+    <data variant="D3AR5" chapter="Aufbau kompl" gapl="19" part="1" grips="19" name_en="Superstructure" name_de="Aufbau" />
+    <data variant="D3AR5" chapter="Aufbau kompl" gapl="19" part="1" grips="19 08" name_en="Body Module" name_de="Aufbau Ladefl„che" />
+    <data variant="D3AR5" chapter="Materialkasten li Anbau" gapl="191804" part="8" grips="19 08 30" name_en="Stowage Boxes" name_de="Materialboxen am Aufbau-Modul" />
+    <data variant="D3AR5" chapter="Heckklappe kompl/Heckscheibe Einbau" gapl="191807" part="11" grips="19 08 20" name_en="Windows" name_de="Fenster" />
+    <data variant="D3AR5" chapter="Verriegelung" gapl="191809" part="13" grips="19 08 15" name_en="Doors" name_de="Tren" />
+    <data variant="D3AR5" chapter="Minenschutzsitze Einbau" gapl="191814" part="18" grips="19 08 05" name_en="Seats" name_de="Mannschaftssitze" />
+    <data variant="D3AR5" chapter="Seilfhrung Anbau" gapl="191824" part="28" grips="19 08 15" name_en="Doors" name_de="Tren" />
+    <data variant="D3AR5" chapter="Deckel Seitenwand li Einbau" gapl="191825" part="29" grips="25 20" name_en="NBC System Aux" name_de="Zusatz ABC Anlage zum Beispiel im Aufbau des DURO" />
+    <data variant="D3AR5" chapter="Dachdeckel Einbau" gapl="191828" part="32" grips="19 08 16" name_en="Roof Hatch" name_de="Dachluke" />
+    <data variant="D3AR5" chapter="Drehstab u. Dachdeckel kompl" gapl="191829" part="33" grips="19 08 16" name_en="Roof Hatch" name_de="Dachluke" />
+    <data variant="D3AR5" chapter="Schliessung Aufbau Einbau" gapl="191831" part="35" grips="19 08 15" name_en="Doors" name_de="Tren" />
+    <data variant="D3AR5" chapter="Zusatzpanzerung li Aufbau" gapl="191832" part="36" grips="19 08 35" name_en="Add-On Armor BodyMod" name_de="Zusatzpanzerung Aufbau Ladefl„che" />
+    <data variant="D3AR5" chapter="Zusatzpanzerung re Aufbau" gapl="191833" part="37" grips="19 08 35" name_en="Add-On Armor BodyMod" name_de="Zusatzpanzerung Aufbau Ladefl„che" />
+    <data variant="D3AR5" chapter="Zusatzpanzerung Aufbau" gapl="191834" part="38" grips="19 08 35" name_en="Add-On Armor BodyMod" name_de="Zusatzpanzerung Aufbau Ladefl„che" />
+    <data variant="D3AR5" chapter="Waffenstation Anbau" gapl="1919" part="41" grips="30" name_en="Weapon" name_de="Bewaffnung Maschinengewehre" />
+    <data variant="D3AR5" chapter="Zubeh”r zu Waffenstation" gapl="191902" part="43" grips="30" name_en="Weapon" name_de="Bewaffnung Maschinengewehre" />
+    <data variant="D3AR5" chapter="Abdeckg. šberdruckvent/Bedieng. Heizung" gapl="192502" part="45" grips="25 04 01" name_en="Controls Aux Air Heat" name_de="Bedienelemente Zusatz-Klima-Heizsystem" />
+    <data variant="D3AR5" chapter="Funk u. BVA- Anlage Aufbau" gapl="194003" part="49" grips="40" name_en="Radio Equipment" name_de="Funk" />
+    <data variant="D3AR5" chapter="Funk u. BVA- Anlage Aufbau" gapl="194003" part="49" grips="45 30" name_en="GFE Material" name_de="GFE Material" />
+    <data variant="D3AR5" chapter="Funk u. BVA- Anlage Aufbau" gapl="194003" part="50" grips="40" name_en="Radio Equipment" name_de="Funk" />
+    <data variant="D3AR5" chapter="Funk u. BVA- Anlage Aufbau" gapl="194003" part="50" grips="45 30" name_en="GFE Material" name_de="GFE Material" />
+    <data variant="D3AR5" chapter="Verkabelung FIS HE fest u. lose" gapl="194506" part="53" grips="45 10" name_en="Crews Workstations" name_de="Arbeitspl„tze Besatzung Halter und EDV" />
+    <data variant="D3AR5" chapter="Verkabelung FIS HE fest u. lose" gapl="194506" part="53" grips="45 15" name_en="Server Station" name_de="Server Station Halter und EDV" />
+    <data variant="D3AR5" chapter="Verkabelung FIS HE fest u. lose" gapl="194506" part="53" grips="45 17" name_en="LAN Install" name_de="Netzwerkkomponenten Halter und EDV" />
+    <data variant="D3AR5" chapter="Verkabelung FIS HE fest u. lose" gapl="194506" part="53" grips="45 20" name_en="GPS Install" name_de="GPS Einbau Halter und EDV Innen und Aussen" />
+    <data variant="D3AR5" chapter="Verkabelung FIS HE fest u. lose" gapl="194506" part="53" grips="45 25" name_en="Com Install" name_de="Erg„nzendes Kommunikationsmaterial Einbau Halter" />
+    <data variant="D3AR5" chapter="Halterungen FIS-HE Aufbau" gapl="194598" part="54" grips="45 10" name_en="Crews Workstations" name_de="Arbeitspl„tze Besatzung Halter und EDV" />
+    <data variant="D3AR5" chapter="Halterungen FIS-HE Aufbau" gapl="194598" part="54" grips="45 15" name_en="Server Station" name_de="Server Station Halter und EDV" />
+    <data variant="D3AR5" chapter="Halterungen FIS-HE Aufbau" gapl="194598" part="54" grips="45 17" name_en="LAN Install" name_de="Netzwerkkomponenten Halter und EDV" />
+    <data variant="D3AR5" chapter="Halterungen FIS-HE Aufbau" gapl="194598" part="54" grips="45 20" name_en="GPS Install" name_de="GPS Einbau Halter und EDV Innen und Aussen" />
+    <data variant="D3AR5" chapter="Halterungen FIS-HE Aufbau" gapl="194598" part="54" grips="45 25" name_en="Com Install" name_de="Erg„nzendes Kommunikationsmaterial Einbau Halter" />
+    <data variant="D3AR5" chapter="Halterung Steuerger„t Waffe Einbau" gapl="199811" part="69" grips="30" name_en="Weapon" name_de="Bewaffnung Maschinengewehre" />
+    <data variant="D3AR5" chapter="Heizung/Lftung/Klimaanlage" gapl="25" part="1" grips="25" name_en="Heat_Venting_AC" name_de="Heizung Lftung Klimaanlage LSS ABC Innenluft" />
+    <data variant="D3AR5" chapter="Heizung/Lftung/Klimaanlage" gapl="25" part="1" grips="25 01" name_en="Heater System" name_de="Heizung" />
+    <data variant="D3AR5" chapter="Standheizung Einbau" gapl="2501" part="2" grips="25 01" name_en="Heater System" name_de="Heizung" />
+    <data variant="D3AR5" chapter="Standheizung Einbau" gapl="2501" part="2" grips="25 01 10" name_en="Water Heater" name_de="Standheizung mit Wasserheizger„t oder Luftheizger„" />
+    <data variant="D3AR5" chapter="Klimakompressor li Einbau" gapl="2502" part="3" grips="25 03 10" name_en="Compressor" name_de="Kompressor" />
+    <data variant="D3AR5" chapter="Klimakompressor li Einbau" gapl="2502" part="3" grips="25 03 15" name_en="Belt AC" name_de="Riemen Klimaanlage" />
+    <data variant="D3AR5" chapter="Klimatrockner Einbau" gapl="2504" part="5" grips="25 03 30" name_en="Reservoir" name_de="Reservoir" />
+    <data variant="D3AR5" chapter="Heiz- u. Klimager„t Einbau" gapl="2505" part="6" grips="25 03" name_en="Air Conditioning" name_de="Klimaanlage" />
+    <data variant="D3AR5" chapter="Heiz- u. Klimager„t" gapl="250510" part="7" grips="25 01 01" name_en="Controls Heat AC" name_de="Bedienelemente Heizung/Klimaanlage Nur wenn Kombi" />
+    <data variant="D3AR5" chapter="Heiz- u. Klimager„t" gapl="250510" part="7" grips="25 01 20" name_en="Heat Ex+Air Duct" name_de="W„rmetauscher  und Luftfhrung Einbau" />
+    <data variant="D3AR5" chapter="Heiz- u. Klimager„t" gapl="250510" part="7" grips="25 01 25" name_en="Heater Fan" name_de="Gebl„se" />
+    <data variant="D3AR5" chapter="Heiz- u. Klimager„t" gapl="250510" part="7" grips="25 01 35" name_en="Heater Valves" name_de="Heizungventile" />
+    <data variant="D3AR5" chapter="Heiz- u. Klimager„t" gapl="250510" part="7" grips="25 03 20" name_en="AC Unit" name_de="Klimaanlageeinheit nicht Kombiger„t wie LSS" />
+    <data variant="D3AR5" chapter="Heiz- u. Klimager„t" gapl="250510" part="7" grips="25 03 20 05" name_en="Evaporator" name_de="Verdampfer" />
+    <data variant="D3AR5" chapter="Heiz- u. Klimager„t" gapl="250510" part="7" grips="25 03 20 10" name_en="Expans Valve" name_de="Expansionaventil" />
+    <data variant="D3AR5" chapter="Heiz- u. Klimager„t" gapl="250510" part="7" grips="25 03 20 15" name_en="Thermostat" name_de="Thermostat" />
+    <data variant="D3AR5" chapter="Heiz- u. Klimager„t" gapl="250510" part="7" grips="25 03 20 20" name_en="Water Drain" name_de="Wasserablass" />
+    <data variant="D3AR5" chapter="Klimakompressor re Einbau" gapl="2506" part="8" grips="25 04 10" name_en="Compressor Aux AC" name_de="Kompressor Zusatzklimaanlage" />
+    <data variant="D3AR5" chapter="Klimakompressor re Einbau" gapl="2506" part="8" grips="25 04 15" name_en="Belt Aux AC" name_de="Riemen Zusatzklimaanlage" />
+    <data variant="D3AR5" chapter="Klimaleitungen Aufbau" gapl="2507" part="9" grips="25 04" name_en="Aux Heat Air Con System" name_de="Heiz- Klimasystem im Aufbau Duro/Eagle" />
+    <data variant="D3AR5" chapter="Klimaleitungen Einbau" gapl="2508" part="10" grips="25 04" name_en="Aux Heat Air Con System" name_de="Heiz- Klimasystem im Aufbau Duro/Eagle" />
+    <data variant="D3AR5" chapter="Klimasystem Einbau" gapl="2509" part="11" grips="25 04" name_en="Aux Heat Air Con System" name_de="Heiz- Klimasystem im Aufbau Duro/Eagle" />
+    <data variant="D3AR5" chapter="Klimaanlage kompl" gapl="250910" part="12" grips="25 04 20" name_en="Aux AC Unit" name_de="A/C-Einheit Aufbau" />
+    <data variant="D3AR5" chapter="Klimaanlage kompl" gapl="250910" part="12" grips="25 04 20 05" name_en="Evaporator Aux AC" name_de="Verdampfer Zusatzklimaanlage" />
+    <data variant="D3AR5" chapter="Klimaanlage kompl" gapl="250910" part="12" grips="25 04 20 07" name_en="Heat Ex Aux Sys" name_de="Heizelement Zusatz-Heiz- Klimasystem" />
+    <data variant="D3AR5" chapter="Klimaanlage kompl" gapl="250910" part="12" grips="25 04 20 08" name_en="Heater Fan Aux Sys" name_de="Gebl„se Zusatz Heiz- Klimasystem" />
+    <data variant="D3AR5" chapter="Klimaanlage kompl" gapl="250910" part="12" grips="25 04 20 09" name_en="Heater Valve" name_de="Heizventile Zusatz Heiz- Klimasystem" />
+    <data variant="D3AR5" chapter="Klimaanlage kompl" gapl="250910" part="12" grips="25 04 20 10" name_en="Expans Valve Aux AC" name_de="Expansionsventil  Zusatzklimaanlage" />
+    <data variant="D3AR5" chapter="Klimaanlage kompl" gapl="250910" part="12" grips="25 04 20 15" name_en="Thermostat Aux AC" name_de="Thermostat Zusatzklimaanlage" />
+    <data variant="D3AR5" chapter="Klimaanlage kompl" gapl="250910" part="12" grips="25 04 25" name_en="Filter_Drier" name_de="Filter Trockner Zusatzklimaanlage" />
+    <data variant="D3AR5" chapter="Klimaanlage kompl" gapl="250910" part="12" grips="25 04 31" name_en="Pressure Switch Aux AC" name_de="Druckschalter Zusatzklimaanlage" />
+    <data variant="D3AR5" chapter="Klimaanlage kompl" gapl="250910" part="12" grips="25 04 33" name_en="Condenser" name_de="Kondensator Zusatzklimaanlage" />
+    <data variant="D3AR5" chapter="Klimaanlage kompl" gapl="250910" part="12" grips="25 04 36" name_en="Aux Fan Aux AC" name_de="Zusatzlfter Zusatzklimaanlage" />
+    <data variant="D3AR5" chapter="Klimaanlage kompl" gapl="250910" part="12" grips="25 04 55" name_en="Temp Controller Aux AC" name_de="Temperaturregler Zusatzklimaanlage" />
+    <data variant="D3AR5" chapter="Klimaanlage kompl" gapl="250910" part="12" grips="25 04 60" name_en="Refrigerant Aux AC" name_de="K„ltemittel Zusatzklimaanlage" />
+    <data variant="D3AR5" chapter="Klimakondensator Einbau" gapl="2510" part="13" grips="25 03 35" name_en="Condenser" name_de="Kondensator" />
+    <data variant="D3AR5" chapter="Klimakondensator Einbau" gapl="2510" part="13" grips="25 03 36" name_en="Aux Fan" name_de="Zusatzlfter" />
+    <data variant="D3AR5" chapter="Khlwasserleitungen Einbau" gapl="2511" part="15" grips="25 01 10" name_en="Water Heater" name_de="Standheizung mit Wasserheizger„t oder Luftheizger„" />
+    <data variant="D3AR5" chapter="Khlwasserleitungen Einbau" gapl="2511" part="16" grips="05 06" name_en="Coolant Filter" name_de="Khlmittelfilter" />
+    <data variant="D3AR5" chapter="ABC-Anlage Uebersicht" gapl="26" part="1" grips="25 15" name_en="NBC System" name_de="ABC-Anlage nicht Kombiger„t wie LSS" />
+    <data variant="D3AR5" chapter="ABC Anlage Kabine  Einbau" gapl="2601" part="2" grips="25 15" name_en="NBC System" name_de="ABC-Anlage nicht Kombiger„t wie LSS" />
+    <data variant="D3AR5" chapter="ABC Anlage Kabine  Einbau" gapl="2601" part="2" grips="25 15 01 01" name_en="NBC Filter" name_de="ABC Filter" />
+    <data variant="D3AR5" chapter="ABC-Anlage Kabine" gapl="260110" part="3" grips="25 15" name_en="NBC System" name_de="ABC-Anlage nicht Kombiger„t wie LSS" />
+    <data variant="D3AR5" chapter="ABC Anlage Aufbau Einbau" gapl="2602" part="4" grips="25 20" name_en="NBC System Aux" name_de="Zusatz ABC Anlage zum Beispiel im Aufbau des DURO" />
+    <data variant="D3AR5" chapter="ABC Anlage Aufbau Einbau" gapl="2602" part="4" grips="25 20 01" name_en="NBC Unit" name_de="ABC Einheit" />
+    <data variant="D3AR5" chapter="ABC Anlage Aufbau Einbau" gapl="2602" part="4" grips="25 20 01 01" name_en="NBC Filter" name_de="ABC Filter" />
+    <data variant="D3AR5" chapter="ABC-Anlage Aufbau" gapl="260210" part="5" grips="25 20" name_en="NBC System Aux" name_de="Zusatz ABC Anlage zum Beispiel im Aufbau des DURO" />
+    <data variant="D3AR5" chapter="Ventilatoreinheit m. Zyklonfilter" gapl="260211" part="6" grips="25 20 01 05" name_en="NBCBlowerFreshAir" name_de="ABC Frischluftgebl„se" />
+    <data variant="D3AR5" chapter="Ventilatoreinheit m. Zyklonfilter" gapl="260211" part="6" grips="25 20 01 20" name_en="NBC DustSeparator" name_de="ABC Cyclonfilter" />
+    <data variant="D3AR5" chapter="Funkanlage" gapl="40" part="1" grips="40" name_en="Radio Equipment" name_de="Funk" />
+    <data variant="D3AR5" chapter="FIS HE Ausrstung Kabine" gapl="45" part="1" grips="45" name_en="Data In Output Trans Equip" name_de="Datenein- und Ausgabeger„te-Datenbertragung" />
+    <data variant="D3AR5" chapter="Ger„tesatz FIS HE Kabine" gapl="4540" part="3" grips="45 05" name_en="Comand Workstation" name_de="Arbeitsplatz Kommandanten Halter und EDV" />
+    <data variant="D3AR5" chapter="Detailetat 1_1_100" gapl="97" part="1" grips="45 30" name_en="GFE Material" name_de="GFE Material" />
+  </body>
+</topic>
